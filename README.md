@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+GitHub;Ingeniero+de+Software;Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ### 🛠 Tecnologías que manejo
@@ -41,7 +40,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ingharoldmarin">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20(Principal)-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Harold2011">
+    <img src="https://img.shields.io/badge/GitHub%20(Alterno)-6e5494?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -49,7 +51,6 @@
 
 ### 🧠 Frase que me inspira
 
-> _"La ciencia de hoy es la tecnología del mañana" – Edward Teller
+> _"La ciencia de hoy es la tecnología del mañana" – Edward Teller_
 
 ---
-
