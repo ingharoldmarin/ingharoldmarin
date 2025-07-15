@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/harold-estiben-marin-bedoya-434929139/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:haroldestibenmarin@gmail.com">
+  <a href="mailto:haroldmarin2011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/tu-usuario-aqui">
