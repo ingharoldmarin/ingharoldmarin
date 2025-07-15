@@ -2,8 +2,9 @@
 <h3 align="center">👨‍💻 Ingeniero de Software apasionado por la tecnología y el desarrollo de soluciones eficientes</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+GitHub;Ingeniero+de+Software;Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+GitHub;Ingeniero+de+Software;Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
 </p>
+
 
 ---
 
