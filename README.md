@@ -57,7 +57,7 @@
 
 ### 🧠 Frase que me inspira
 
-> _"La mejor manera de predecir el futuro es creándolo."_ – Alan Kay
+> _"La ciencia de hoy es la tecnología del mañana" – Edward Teller
 
 ---
 
