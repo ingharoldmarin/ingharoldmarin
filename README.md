@@ -1,9 +1,40 @@
 <h1 align="center">Hola 👋, soy Harold Estiben Marin Bedoya</h1>
 <h3 align="center">👨‍💻 Ingeniero de Software apasionado por la tecnología y el desarrollo de soluciones eficientes</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+GitHub;Ingeniero+de+Software;Apasionado+por+la+tecnología+y+la+innovación" alt="Typing SVG" />
-</p>
+<style>
+  .typing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .typing-text {
+    font-family: 'Fira Code', monospace;
+    font-size: 24px;
+    color: #38BDF8;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #38BDF8;
+    width: 0;
+    animation: typing 4s steps(40, end), blink .75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 37ch; } /* Ajusta la longitud del texto */
+  }
+
+  @keyframes blink {
+    from, to { border-color: transparent; }
+    50% { border-color: #38BDF8; }
+  }
+</style>
+
+<div class="typing-container">
+  <div class="typing-text">
+    Bienvenido a mi GitHub
+  </div>
+</div>
 
 ---
 
@@ -39,18 +70,9 @@
   <a href="mailto:haroldmarin2011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tu-usuario-aqui">
+  <a href="https://github.com/ingharoldmarin">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-aqui&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-aqui&layout=compact&theme=tokyonight" />
 </p>
 
 ---
